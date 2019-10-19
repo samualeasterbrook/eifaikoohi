@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohtoodah.yabble.ru/sitemap.xml
